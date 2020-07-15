@@ -21,3 +21,6 @@
     background-color: #512DA8;
     color: whitesmoke;
 }
+.disable-dbl-tap-zoom {
+  touch-action: manipulation;
+}
