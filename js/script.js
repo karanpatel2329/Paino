@@ -159,3 +159,179 @@ $(document).keypress(function(event){
         m25.play();
     }
 });
+
+function a(){
+    
+    {
+        m1.currentTime=0;
+        m1.play();
+    }
+};
+function b(){
+    
+    {
+        m2.currentTime=0;
+        m2.play();
+    }
+};
+function c(){
+    
+    {
+        m3.currentTime=0;
+        m3.play();
+    }
+};
+function d(){
+    
+    {
+        m4.currentTime=0;
+        m4.play();
+    }
+};
+function e(){
+    
+    {
+        m5.currentTime=0;
+        m5.play();
+    }
+};
+function f(){
+    
+    {
+        m6.currentTime=0;
+        m6.play();
+    }
+};
+function g(){
+    
+    {
+        m7.currentTime=0;
+        m7.play();
+    }
+};
+function i(){
+    
+    {
+        m8.currentTime=0;
+        m8.play();
+    }
+};
+function j(){
+    
+    {
+        m9.currentTime=0;
+        m9.play();
+    }
+};
+function k(){
+    
+    {
+        m10.currentTime=0;
+        m10.play();
+    }
+};
+function l(){
+    
+    {
+        m11.currentTime=0;
+        m11.play();
+    }
+};
+function m(){
+    
+    {
+        m12.currentTime=0;
+        m13.play();
+    }
+};
+function n(){
+    
+    {
+        m13.currentTime=0;
+        m13.play();
+    }
+};
+function o(){
+    
+    {
+        m14.currentTime=0;
+        m14.play();
+    }
+};
+function p(){
+    
+    {
+        m15.currentTime=0;
+        m15.play();
+    }
+};
+function q(){
+    
+    {
+        m16.currentTime=0;
+        m16.play();
+    }
+};
+
+function r(){
+    
+    {
+        m17.currentTime=0;
+        m17.play();
+    }
+};
+function s(){
+    
+    {
+        m18.currentTime=0;
+        m18.play();
+    }
+};
+function t(){
+    
+    {
+        m19.currentTime=0;
+        m19.play();
+    }
+};
+function u(){
+    
+    {
+        m20.currentTime=0;
+        m20.play();
+    }
+};
+
+function v(){
+    
+    {
+        m21.currentTime=0;
+        m21.play();
+    }
+};
+function w(){
+    
+    {
+        m22.currentTime=0;
+        m22.play();
+    }
+};
+function x(){
+    
+    {
+        m23.currentTime=0;
+        m23.play();
+    }
+};
+function y(){
+    
+    {
+        m24.currentTime=0;
+        m24.play();
+    }
+};
+
+function h(){
+    m25.currentTime=0;
+    m25.play();
+}
